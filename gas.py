@@ -15,6 +15,10 @@ col1, col2, col3 = st.columns([1,1.5,1])
 with col2:
     st.image('photo.png',use_container_width=True)
     
+    st.success('Gas Compressor is operating normally', icon="✅")
+
+
+
 
 colleft, col1, col2, col3,colright = st.columns(5)
 
