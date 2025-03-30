@@ -1,6 +1,5 @@
 [theme]
-primaryColor = "#FFD700"  # Gold
-backgroundColor = "#000000"  # Black
+
 secondaryBackgroundColor = "#333333"  # Dark gray for sidebar
-textColor = "#FFD700"  # Gold
+textColor = "#000000"  # Gold
 font = "sans serif"
